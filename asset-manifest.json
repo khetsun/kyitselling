@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kyitselling/static/css/main.1f7b8d13.chunk.css",
+    "main.js": "/kyitselling/static/js/main.a0780720.chunk.js",
+    "main.js.map": "/kyitselling/static/js/main.a0780720.chunk.js.map",
+    "runtime-main.js": "/kyitselling/static/js/runtime-main.63503042.js",
+    "runtime-main.js.map": "/kyitselling/static/js/runtime-main.63503042.js.map",
+    "static/css/2.818011ed.chunk.css": "/kyitselling/static/css/2.818011ed.chunk.css",
+    "static/js/2.4641e734.chunk.js": "/kyitselling/static/js/2.4641e734.chunk.js",
+    "static/js/2.4641e734.chunk.js.map": "/kyitselling/static/js/2.4641e734.chunk.js.map",
+    "static/js/3.98c3627e.chunk.js": "/kyitselling/static/js/3.98c3627e.chunk.js",
+    "static/js/3.98c3627e.chunk.js.map": "/kyitselling/static/js/3.98c3627e.chunk.js.map",
+    "index.html": "/kyitselling/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/kyitselling/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.1f7b8d13.chunk.css.map": "/kyitselling/static/css/main.1f7b8d13.chunk.css.map",
+    "static/js/2.4641e734.chunk.js.LICENSE.txt": "/kyitselling/static/js/2.4641e734.chunk.js.LICENSE.txt",
+    "static/media/dancing2.9629f727.JPG": "/kyitselling/static/media/dancing2.9629f727.JPG",
+    "static/media/App.css": "/kyitselling/static/media/kyitseling.da9f9e27.JPG",
+    "static/media/plantingtrees.5c16ca90.jpg": "/kyitselling/static/media/plantingtrees.5c16ca90.jpg",
+    "static/media/yoga1.ceac7ce6.jpeg": "/kyitselling/static/media/yoga1.ceac7ce6.jpeg",
+    "static/media/yogateacher.1ed6ce70.jpeg": "/kyitselling/static/media/yogateacher.1ed6ce70.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63503042.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.4641e734.chunk.js",
+    "static/css/main.1f7b8d13.chunk.css",
+    "static/js/main.a0780720.chunk.js"
+  ]
+}
